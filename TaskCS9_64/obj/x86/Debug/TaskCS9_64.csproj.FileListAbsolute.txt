@@ -1,0 +1,5 @@
+I:\Max\Perf_gr\Gb\Examples\TaskCS9_64\bin\Debug\TaskCS9_64.exe
+I:\Max\Perf_gr\Gb\Examples\TaskCS9_64\bin\Debug\TaskCS9_64.pdb
+I:\Max\Perf_gr\Gb\Examples\TaskCS9_64\obj\x86\Debug\TaskCS9_64.exe
+I:\Max\Perf_gr\Gb\Examples\TaskCS9_64\obj\x86\Debug\TaskCS9_64.pdb
+I:\Max\Perf_gr\Gb\Examples\TaskCS9_64\obj\x86\Debug\TaskCS9_64.csprojResolveAssemblyReference.cache
